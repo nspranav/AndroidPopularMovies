@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="api_key">e56373498c6dfb3698b8e16b9a00a839</string>
+    <string name="retry">Retry</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="movie_image_content_description">Image</string>
+    <string name="release_date">Release Date</string>
+    <string name="user_rating">Rating</string>
+    <string name="overview">Overview</string>
+    <string name="movie_deatils">Movie Details</string>
+    <string name="title">Title</string>
+    <string name="image_content_descrption">Image not available</string>
+</resources>
